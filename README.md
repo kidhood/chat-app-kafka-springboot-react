@@ -76,3 +76,9 @@ Make sure to replace <write user name here> with your MySQL database username an
 - Real-time messaging: Users can exchange messages in real-time with other participants in the chat.
 - Multiple chat rooms: The application supports multiple chat rooms, allowing users to join and participate in different conversations.
 - Message history: Chat messages are persisted and can be retrieved, allowing users to view previous conversations.
+
+## Technologies Used
+
+- Apache Kafka: An open-source distributed event streaming platform used as the messaging system for real-time chat functionality.
+- React: A JavaScript library for building user interfaces, utilized for developing the front-end components and managing the user interface interactions.
+-Spring Boot: building backend
