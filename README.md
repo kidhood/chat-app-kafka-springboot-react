@@ -10,7 +10,7 @@ To set up the project locally, follow these steps:
 
 ## Demo
 
-![Chat demo](img/chat_demo.jpg "Chat screen")
+![Chat demo](img/chat_demo.png "Chat screen")
 
 
 
