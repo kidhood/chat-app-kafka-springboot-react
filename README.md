@@ -1,5 +1,5 @@
 
-## WebApp Chat with Kafka and React
+# WebApp Chat with Kafka and React
 This project is a web application that allows users to engage in real-time chat conversations using Kafka as the messaging system and React for the front-end development. The application provides a seamless and interactive chat experience with the help of Kafka's publish-subscribe messaging model.
 
 #### Setup and Installation
