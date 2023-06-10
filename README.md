@@ -18,7 +18,7 @@ To set up the project locally, follow these steps:
 
 To install and set up the project, please follow the steps below:
 
-Clone the repository: git clone https://github.com/kidhood/chat-app-kafka-springboot-react.git
+Clone the repository: `git clone https://github.com/kidhood/chat-app-kafka-springboot-react.git`
 
 Navigate to the React client directory:
 
