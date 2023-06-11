@@ -82,3 +82,6 @@ Make sure to replace <write user name here> with your MySQL database username an
 - Apache Kafka: An open-source distributed event streaming platform used as the messaging system for real-time chat functionality.
 - React: A JavaScript library for building user interfaces, utilized for developing the front-end components and managing the user interface interactions.
 - Spring Boot: building backend
+
+ [![](https://img.shields.io/badge/Email-vanthong07012002@gmail.com-blue?style=flat-square&logo=gmail)](mailto:vanthong07012002@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-linkedin.com/in/kidhood-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kidhood/)
